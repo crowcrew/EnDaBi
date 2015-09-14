@@ -1,0 +1,60 @@
+
+#header {
+  font-size:72;
+  font-style: normal;
+  font-weight: 900;
+  font-family:monospace;
+  background-color:#fff;
+  color:#00e;
+  clear:both;
+  text-align:center;
+  padding:100px;
+  border: solid #000;
+  border-width:1;
+}
+#nav {
+    background-color:#fff;
+    color:#001;
+    text-align:center;
+    float:center;
+    padding:20px;
+}
+
+#footer {
+    background-color:#efe;
+    color:#090;
+    clear:both;
+    text-align:center;
+    padding:5px;
+    font-size:26;
+    font-style: oblique;
+    font-weight: lighter;
+    font-family:monospace;
+    border: solid black;
+}
+#canvas {
+  text-align:center;
+  align-self:flex-start;
+  color:grey;
+}
+#gc
+{
+  color:#e0e;
+}
+#section
+{
+  align-self: center;
+  align-items: center;
+  line-height:30px;
+  background-color:#fff;
+  height:300px;
+  width:128px;
+}
+#details
+{
+  width:20px;
+}
+a:link    {color:green; background-color:transparent; text-decoration:none}
+a:visited {color:grey; background-color:transparent; text-decoration:none}
+a:hover   {color:#02f; background-color:transparent; text-decoration:underline}
+a:active  {color:#0aa; background-color:transparent; text-decoration:underline}
