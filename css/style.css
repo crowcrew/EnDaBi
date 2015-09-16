@@ -17,7 +17,7 @@ div{
     text-shadow: .5px .7px .7px #eee;
 }
 
-div:hover{ opacity: 1.0; border-left:groove #0000cd;}
+div:hover{ opacity: 1.0;}
 
 
 #header
@@ -26,11 +26,11 @@ div:hover{ opacity: 1.0; border-left:groove #0000cd;}
   font-style: normal;
   font-weight: 900;
   font-family:monospace;
-  color:#090;
+  color:#02027d;
   clear:both;
   text-align:center;
   padding:10px;
-  border-left:groove #0000cd;
+  border-left:groove #228b22;
 
 }
 #inbody
@@ -44,7 +44,7 @@ div:hover{ opacity: 1.0; border-left:groove #0000cd;}
 #footer
 {
     background-color:#efe;
-    color:#090;
+    color:#228b22;
     clear:both;
     text-align:center;
     padding:10px;
@@ -54,7 +54,7 @@ div:hover{ opacity: 1.0; border-left:groove #0000cd;}
     font-family:monospace;
     border: solid black;
 }
-a:link    {color:green; background-color:transparent; text-decoration:none}
+a:link    {color:#228b22; background-color:transparent; text-decoration:none}
 a:visited {color:gray; background-color:transparent; text-decoration:none}
-a:hover   {color:#0000cd; background-color:transparent; text-decoration:underline}
-a:active  {color:#2f4f4f; background-color:transparent; text-decoration:underline}
+a:hover   {color:#02027d; background-color:transparent; text-decoration:underline}
+a:active  {color:#4169e1; background-color:transparent; text-decoration:underline}
