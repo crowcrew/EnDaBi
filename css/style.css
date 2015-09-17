@@ -30,7 +30,7 @@ div:hover{ opacity: 1.0;}
   clear:both;
   text-align:center;
   padding:10px;
-  border-left:groove #228b22;
+  border-left:solid #228b22;
 
 }
 #inbody
@@ -43,18 +43,18 @@ div:hover{ opacity: 1.0;}
 
 #footer
 {
-    background-color:#efe;
-    color:#228b22;
+    background-color:#transparent;
+    color:#02027d;
     clear:both;
     text-align:center;
-    padding:10px;
+    margin-top:30px;
     font-size:26;
     font-style: oblique;
     font-weight: lighter;
     font-family:monospace;
-    border: solid black;
+    border-left: solid #228b22;
 }
-a:link    {color:#228b22; background-color:transparent; text-decoration:none}
+a:link    {color:#02027d; background-color:transparent; text-decoration:none}
 a:visited {color:gray; background-color:transparent; text-decoration:none}
-a:hover   {color:#02027d; background-color:transparent; text-decoration:underline}
-a:active  {color:#4169e1; background-color:transparent; text-decoration:underline}
+a:hover   {color:#228b22; background-color:transparent; text-decoration:underline}
+a:active  {color:#2fcf22; background-color:transparent; text-decoration:underline}
