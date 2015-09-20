@@ -41,20 +41,6 @@ div:hover{ opacity: 1.0;}
     text-align:center;
 }
 
-#footer
-{
-    display: block;
-    border-left: solid #228b22;
-    background-color: #ffffff;
-    opacity: 1.0;
-    color: #02027d;
-    text-align: center;
-    margin-top: 30px;
-    font-family: monospace;
-    font-size: 26;
-    font-style: oblique;
-    font-weight: lighter;
-}
 
 a:link    {color:#02027d; background-color:transparent; text-decoration:none}
 a:visited {color:gray; background-color:transparent; text-decoration:none}
