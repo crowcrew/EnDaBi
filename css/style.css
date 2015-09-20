@@ -43,16 +43,19 @@ div:hover{ opacity: 1.0;}
 
 #footer
 {
+    display: block;
+    border-left: solid #228b22;
     background-color: #ffffff;
-    color:#02027d;
-    text-align:center;
-    margin-top:30px;
-    font-size:26;
+    opacity: 1.0;
+    color: #02027d;
+    text-align: center;
+    margin-top: 30px;
+    font-family: monospace;
+    font-size: 26;
     font-style: oblique;
     font-weight: lighter;
-    font-family:monospace;
-    border-left: solid #228b22;
 }
+
 a:link    {color:#02027d; background-color:transparent; text-decoration:none}
 a:visited {color:gray; background-color:transparent; text-decoration:none}
 a:hover   {color:#228b22; background-color:transparent; text-decoration:underline}
