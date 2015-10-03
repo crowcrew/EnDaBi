@@ -1,2 +1,2 @@
-#### EnDaBi
-#Encryption Database and Biometrics Library and Software Suite
+#EnDaBi
+###Encryption Database and Biometrics Library and Software Suite
