@@ -14,7 +14,7 @@ jdk:
 before_install:
   - if [ $TRAVIS_OS_NAME == linux ]; then sudo apt-get update && sudo apt-get install -y libfltk1.3-dev fltk1.3 gdc; fi
 
-install : make && make test
+install : make
 
 branches:
   only:
@@ -22,4 +22,3 @@ branches:
 
 os:
   - linux
-  - osx
