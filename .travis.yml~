@@ -8,7 +8,7 @@ compiler:
 before_install:
   - if [ $TRAVIS_OS_NAME == linux ]; then sudo apt-get update && sudo apt-get install -y libfltk1.3-dev fltk1.3 gdc openjdk-7-jdk; fi
 
-script : make
+install : make
 
 branches:
   only:
