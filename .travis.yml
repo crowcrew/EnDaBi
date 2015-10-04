@@ -1,3 +1,4 @@
 language: java
-os: linux
 script : make
+sudo: false
+os: linux
