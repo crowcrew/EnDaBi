@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/EnDaBi/SQLDemo.svg?branch=master)](https://travis-ci.org/EnDaBi/SQLDemo)
+
 This is a demo we toyed around with to expermint with various concepts of SQL using sqlite3 and the Java Programming language.
 
 The insight we gained will be used to implement our own sqlite database engine inside the EnDaBi project.
