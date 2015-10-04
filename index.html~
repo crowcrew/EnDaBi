@@ -30,16 +30,15 @@
     margin-top:20px;
     margin-bottom:20px;
     text-align:center;
-    font-family:Glyphicons Halflings;
     background-color:#efefef;
     color:#02027d;">
       <div class="container">
-        <div class="row">  
-          <div class="col-sm-1">
+        <div class="row">
+          <div class="col-sm-1"></div>
+          <div class="col-sm-2">
             <img src="./images/finalcover.128x86.png" alt="Logo" display="inline-block">
           </div>
-          <div class="col-sm-1"></div>
-          <div class="col-sm-10">
+          <div class="col-sm-9">
             <h3>Encryption, Database and Biometrics Library and Software Suite</h3>
           </div>
         </div>
@@ -54,7 +53,8 @@
               EnDaBi</b>is a software suite originally developed as a third year project by a group of Computer and AutoControl Engineering
             Students at Tishreen University.</p>
           <p>
-            <b style="color:#0071bc;">O</b>ur goal is achieving an easy-to-use compact, minimal and fast C++ library that implements various Encryption schemes (both Synchronous and ASynchronous).</p>
+            <b style="color:#0071bc;">O</b>ur goal is achieving an easy-to-use compact, minimal and fast C++ library that implements various Encryption schemes</p>
+          <p>(both Synchronous and ASynchronous).</p>
           <p>
             <b style="color:#0071bc;">W</b>e also aim to implement our own (light-weight / indipendant SQLite library), that'll complement our data security goals.</p>
           <p>
@@ -119,13 +119,11 @@
         <div class="col-sm-2"></div>
       </div>
     </div>
-    <div class="container" style="background-color:#dce4ef;color:#ffffff;margin-top:40px;">
+    <div class="container" style="background-color:#e4e2e0;color:#ffffff;margin-top:40px;">
       <div class="row">
         <div class="col-sm-3"></div>
         <div class="col-sm-6">
-          <div style="text-align:center;">
-            <h4 style="text-align:center;color:#02027d;margin-bottom:20px;">The Developers</h4>
-          </div>
+          <h4 style="text-align:center;color:#02027d;margin-bottom:20px;">The Developers</h4>
           <a href="https://www.facebook.com/ashmahell" style="display:inline-block">
             <img src="images/aly-shmahell.jpg" title="Aly Shmahell" alt="Aly Shmahell" style="float:center;width:128px;height:200px;">
       <p> Aly Shmahell</p>
@@ -146,11 +144,7 @@
         <div class="col-sm-3"></div>
       </div>
     </div>
-    <div class="container" style="font-family:Glyphicons Halflings;background-color:#494440;color:#f9c642;padding:10px;margin-top:20px;margin-bottom:20px;">
-      <div style="text-align:center;">
-        <p> copyright endabi.github.io <p>
-      </div>
-    </div>
+    <div class="container" style="background-color:#e4e2e0;color:#ffffff;margin-top:20px;"></div>
   </body>
 
 </html>
